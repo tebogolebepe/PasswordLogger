@@ -1,0 +1,5 @@
+2020-03-17 10:36:51,661 | PasswordLogger: Hello this is a debug message
+2020-03-17 10:36:51,664 | PasswordLogger: Hello this is an info message
+2020-03-17 10:36:51,664 | PasswordLogger: Hello this is a warning message
+2020-03-17 10:36:51,664 | PasswordLogger: Hello this is an error message
+2020-03-17 10:36:51,665 | PasswordLogger: Hello this is a fatal message
